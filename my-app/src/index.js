@@ -20,5 +20,5 @@ const elem = (
 const root = ReactDOM.createRoot(document.getElementById('root'));
 
 root.render(
-    elem
+    <App/>
 );
